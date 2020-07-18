@@ -7,7 +7,7 @@
  · Learn and increase in the future.
 ### 📩 Contact
  · **My discord** : Karibo#4217\
- · **E-Mail** : jemin051008@gmail.com
+ · **E-Mail** : jemin051008@gmail.com\
  · **Site** : (Create in future)
 <!--
 **Karibo1008/Karibo1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
