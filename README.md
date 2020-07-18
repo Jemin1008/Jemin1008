@@ -1,6 +1,5 @@
-### 안녕하세요 ! 🤗 저는 학생 개발자를 꿈꾸는 Karibo라고 합니다! 오늘도 저의 GitHub 프로필을 방문해주셔서 감사합니다!
-sex!
-
+# Hello 👋🏻
+  · I am #learning a lot of code and getting better
 <!--
 **Karibo1008/Karibo1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
