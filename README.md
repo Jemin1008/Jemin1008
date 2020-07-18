@@ -1,6 +1,6 @@
 # Welcome to my profile ♎
-- 
-  · I am #learning a lot of code and getting better
+***- About me***
+  · I am **learning** a lot of code and getting better
 <!--
 **Karibo1008/Karibo1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
