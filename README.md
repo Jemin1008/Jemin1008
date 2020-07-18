@@ -1,10 +1,14 @@
 # Welcome to my profile ♎
 ### ✅ About me
- · I am **learning** a lot of code and getting better\
- · And I want to be a security expert.
-### ✅ Language used
- · Html 5\
- · Learn and increase in the future . . .
+ · I am **learning** a lot of code and **getting better**\
+ · And I want to be a **computer security expert**.
+### 📝 Language used
+ · **Html 5** (Currently learning)\
+ · Learn and increase in the future.
+### 📩 Contact
+ · **My discord** : Karibo#4217\
+ · **E-Mail** : jemin051008@gmail.com
+ · **Site** : (Create in future)
 <!--
 **Karibo1008/Karibo1008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
