@@ -1,9 +1,8 @@
 # Welcome to my profile ♎
 ### ✅ About me
- · I am **learning** a lot of code and **getting better**\
- · And I want to be a **computer security expert**.
+ · 뭐 시발
 ### 📝 Language used
- · **Html 5** (Currently learning)\
+ · 없다 씨발.\
  · Learn and increase in the future.
 ### 📩 Contact
  · **My discord** : Karibo#4217\
