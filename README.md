@@ -5,7 +5,6 @@
  · 없다 씨발.\
  · Learn and increase in the future.
 ### 📩 Contact
- · **My discord** : Karibo#4217\
  · **E-Mail** : jemin051008@gmail.com\
  · **Site** : (Create in future)
 <!--
