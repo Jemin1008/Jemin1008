@@ -1,9 +1,8 @@
 # Welcome to my profile ♎
 ### ✅ About me
- · 뭐 시발
+ · A Korean highschool student
 ### 📝 Language used
- · 없다 씨발.\
- · Learn and increase in the future.
+ · Learning JavaScript
 ### 📩 Contact
  · **E-Mail** : jemin051008@gmail.com\
  · **Site** : (Create in future)
